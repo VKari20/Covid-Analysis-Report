@@ -31,7 +31,7 @@ d. Alternatively, run the main Python script if provided.
 
 ├── **data/**
 │ ├── owid covid data.csv # Original large dataset (not included in repo due to size)
-│ └── **covid_filtered.csv **# Filtered smaller dataset for selected countries
+│ └── **covid_filtered.csv** # Filtered smaller dataset for selected countries
 ├── **covid_analysis.ipynb** # Jupyter Notebook with analysis and visualizations
 ├── **README.md** # Project overview and instructions
 
