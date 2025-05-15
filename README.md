@@ -29,11 +29,11 @@ d. Alternatively, run the main Python script if provided.
 
 ## Project Structure
 
-├── data/
+├── **data/**
 │ ├── owid covid data.csv # Original large dataset (not included in repo due to size)
-│ └── covid_filtered.csv # Filtered smaller dataset for selected countries
-├── covid_analysis.ipynb # Jupyter Notebook with analysis and visualizations
-├── README.md # Project overview and instructions
+│ └── **covid_filtered.csv **# Filtered smaller dataset for selected countries
+├── **covid_analysis.ipynb** # Jupyter Notebook with analysis and visualizations
+├── **README.md** # Project overview and instructions
 
 
 ## Insights & Reflections
@@ -48,4 +48,4 @@ Feel free to open issues or contribute improvements!
 
 ---
 
-*Created by Vennesa — 12/5/2025
+Created by Vennesa — 12/5/2025
